@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#header{
+	height: 100px;
+	width: 100%;
+	background: green;
+}
+
+#left{
+	float: left;
+	width: 25%;
+	height: 750px;
+	background: red;
+}
+
+#main{
+	float:left;
+	width: 75%;
+	height: 650px;
+	background: blue;
+}
+
+#insert{
+	float:left;
+	width: 75%;
+	height: 100px;
+	background: yellow;
+}
